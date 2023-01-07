@@ -11,3 +11,12 @@ npm install
 npm start
 ```
 
+### Description
+
+Language: TypesSript
+
+frame：Koa
+
+database： typeorm
+
+
